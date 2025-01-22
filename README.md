@@ -16,7 +16,6 @@ This repository contains an interactive Excel dashboard designed for analyzing r
 
 ## 📂 Files in this Repository
 - **`excel-road-accidents-dashboard.xlsx`**: The main Excel file containing the dashboard.
-- **`sample-data.csv`**: A sample dataset used for analysis.
 - **`README.md`**: Documentation for the project.
 
 ---
